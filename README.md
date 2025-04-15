@@ -88,13 +88,3 @@ This is a **private** project and not licensed for public or commercial use at t
 All rights reserved © 2025.
 
 ---
-
-## 🤝 Connect
-
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/yourname) or [GitHub](https://github.com/yourusername) if you want to discuss, collaborate, or ask questions.
-
-```
-
----
-
-Let me know if you want me to customize the strategy section based on your actual trading logic (RSI thresholds, crossovers, etc.). Or I can help create the `requirements.txt` file too!
